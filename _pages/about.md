@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my website!
+Welcome!
 
 I’m currently a Postdoctoral Fellow at the University of Toronto working with Tomo Parins-Fukuchi and his lab in the Department of Ecology and Evolutionary Biology. I was previously a Chancellor’s Postdoctoral Fellow at the University of California, Riverside working with Nigel Hughes and his lab in the Department of Earth and Planetary Sciences.
 
