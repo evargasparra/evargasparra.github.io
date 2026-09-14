@@ -24,7 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
+
 Welcome!
+
 
 I’m currently a Postdoctoral Fellow at the University of Toronto working with Tomo Parins-Fukuchi and his lab in the Department of Ecology and Evolutionary Biology. I was previously a Chancellor’s Postdoctoral Fellow at the University of California, Riverside working with Nigel Hughes and his lab in the Department of Earth and Planetary Sciences.
 
